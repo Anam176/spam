@@ -6,6 +6,6 @@ pkg install python3
 pkg install git  
 pip install requests  
 pip install rich  
-git clone https://github.com/Anam176/spam  
+git clone https://github.com/Anam176/Spam  
 cd spam  
 python3 menu_spam.py  
