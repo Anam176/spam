@@ -8,5 +8,5 @@ pip install requests
 pip install rich  
 git clone https://github.com/Anam176/Spam  
 git pull  
-cd spam  
+cd Spam  
 python3 menu_spam.py  
